@@ -5,7 +5,7 @@ A new type of computer game is launched in the market, which requires a special 
  
 The keys/layout of remote is as shown below
 
-![ScreenShot](https://raw.githubusercontent.com/AlvinaC/ForkAndJoin/master/screenshot/screenshot_scenario1.png)
+![ScreenShot](https://raw.githubusercontent.com/AlvinaC/ForkAndJoin/master/screenshots/screenshot_scenario1.png)
 
 This remote contains 12 keys with 2 nonfunctional keys. Each functional key has been given a unique label as shown above.
 The Computer game for this console has N levels. There are certain moves in the game which are controlled using the remote. The keys for each moves changes with the number of levels i.e. number of keys for an operation is dependent on the game level, for example, for third level, single move require three key [you have to press three keys in sequence for a move in third level]. A player can only press keys that are left, right, up or down to the current key and he is not allowed to press bottom row corner keys.
